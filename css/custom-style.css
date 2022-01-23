@@ -3,3 +3,13 @@ body {
   font-family: "Oxygen", sans-serif;
   font-family: "Poppins", sans-serif;
 }
+.card-body ul li {
+  list-style: none;
+}
+section {
+  margin-bottom: 50px;
+}
+.position-middle {
+  text-align: center;
+  margin: 3em 0;
+}

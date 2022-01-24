@@ -13,3 +13,7 @@ section {
   text-align: center;
   margin: 3em 0;
 }
+.get-app-txt {
+  text-align-last: end;
+  padding-right: 80px;
+}

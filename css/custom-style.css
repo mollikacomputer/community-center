@@ -17,3 +17,11 @@ section {
   text-align-last: end;
   padding-right: 80px;
 }
+.hot {
+  background-color: tomato;
+  margin-top: -20px;
+  margin-left: 200px;
+  border-radius: 25%;
+  width: 40px;
+  padding: 10px;
+}

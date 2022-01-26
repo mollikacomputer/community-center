@@ -25,6 +25,20 @@ section {
   width: 40px;
   padding: 10px;
 }
-.footer-p-position {
-  margin-right: 5px !important;
+
+@media only screen and (max-width: 738px) {
+  .banner-title {
+    font-size: 1.5em;
+  }
+  .banner-sub-title {
+    font-size: 1em;
+  }
+}
+@media only screen and (min-width: 739px) and (max-width: 1600px) {
+  .banner-title {
+    font-size: 3em;
+  }
+  .banner-sub-title {
+    font-size: 1.5em;
+  }
 }
